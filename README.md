@@ -1,4 +1,4 @@
-# ToDoListener App React Native
+# Calculator App React Native
 
 This is a Calculator App built using React Native, a popular cross-platform framework for building mobile applications. The app allows users to perform arithmetic operation on two numbers
 
