@@ -100,7 +100,7 @@ function MainScreen(){
         }
         else{
         const result=parseInt(enterednumber1)/parseInt(enterednumber2);
-        setresult(result)
+        setresult(result.toFixed(2))
         }
     }
 
