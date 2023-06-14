@@ -9,8 +9,12 @@ This is a Calculator App built using React Native, a popular cross-platform fram
 
 
 
+https://github.com/SHAKTHI-VEL/Calculator-React-Native/assets/93870684/3af95276-6df4-4c00-9e60-a7854aa99089
 
-https://github.com/SHAKTHI-VEL/Calculator-React-Native/assets/93870684/6dd5f07f-79c6-46fa-8e44-829852dd37ad
+
+
+
+
 
 
 
